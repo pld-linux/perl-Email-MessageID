@@ -6,7 +6,7 @@
 %define	pdir	Email
 %define	pnam	MessageID
 Summary:	Email::MessageID - generate world unique message-ids
-Summary(pl):	Email::MessageID - genwrowanie unikalnych w skali ¶wiata message-id
+Summary(pl):	Email::MessageID - generowanie unikalnych w skali ¶wiata message-id
 Name:		perl-Email-MessageID
 Version:	1.2
 Release:	1
@@ -28,8 +28,9 @@ Message-ids are optional, but highly recommended, headers that
 identify a message uniquely. This software generates a unique
 message-id.
 
-# %description -l pl
-# TODO
+%description -l pl
+Message-ID to opcjonalne, ale zdecydowanie zalecane nag³ówki unikalnie
+identyfikuj±ce wiadomo¶æ. Ten modu³ generuje unikalne Message-ID.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
