@@ -9,7 +9,7 @@ Summary:	Email::MessageID - generate world unique message-ids
 Summary(pl.UTF-8):	Email::MessageID - generowanie unikalnych w skali świata message-id
 Name:		perl-Email-MessageID
 Version:	1.35
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
