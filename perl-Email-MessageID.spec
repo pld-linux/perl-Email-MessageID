@@ -8,13 +8,13 @@
 Summary:	Email::MessageID - generate world unique message-ids
 Summary(pl.UTF-8):	Email::MessageID - generowanie unikalnych w skali świata message-id
 Name:		perl-Email-MessageID
-Version:	1.35
-Release:	2
+Version:	1.401
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	220da063bcd47368548e1ab160af6b63
+# Source0-md5:	d15c47679b372e5f833aebcafbbcefb9
 URL:		http://search.cpan.org/dist/Email-MessageID/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
